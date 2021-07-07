@@ -1,2 +1,2 @@
-# dev-unit-tenting-snapshot
+# Unit Testing (Snapshop)
 Practica de unit testing a un proyecto (Snapshot)
